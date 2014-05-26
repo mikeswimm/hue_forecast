@@ -1,0 +1,3 @@
+[submodule "forecast.io-php-api"]
+	path = forecast.io-php-api
+	url = git://github.com/tobias-redmann/forecast.io-php-api.git
