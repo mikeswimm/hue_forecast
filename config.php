@@ -1,4 +1,4 @@
-<? 
+<?php 
 
 // The IP of the Hue bridge on your LAN.
 $bridge = '';
